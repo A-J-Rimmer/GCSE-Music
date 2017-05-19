@@ -17,10 +17,13 @@ text-decoration: underline;
     text-align: center;
     outline-color: blue;
     outline-style: solid;
-  font: black;
+  color: black;
 }
  
 .link:hover {
   background-color: aliceblue;
-  font: grey;
+  color: grey;
+}
+html {
+    background-color: lightblue;
 }
