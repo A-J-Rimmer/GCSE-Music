@@ -1,0 +1,16 @@
+h1 {
+text-align: center;
+}
+
+h3 {
+text-align: center;
+text-decoration: underline;
+}
+
+.class {
+display: block;
+padding: 10%;
+margin: 2%;
+text-decoration: none;
+text-align: center;
+}
