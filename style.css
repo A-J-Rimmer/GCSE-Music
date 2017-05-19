@@ -8,9 +8,19 @@ text-decoration: underline;
 }
 
 .link {
-display: block;
-padding: 10%;
-margin: 2%;
-text-decoration: none;
-text-align: center;
+    display: block;
+    padding: 10px;
+    margin: 2%;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-decoration: none;
+    text-align: center;
+    outline-color: blue;
+    outline-style: solid;
+  font: black;
+}
+ 
+.link:hover {
+  background-color: aliceblue;
+  font: grey;
 }
